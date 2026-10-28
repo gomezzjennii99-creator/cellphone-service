@@ -10,7 +10,6 @@ public class CallPhoneApplication {
         Scanner input = new Scanner(System.in);
 
 
-
         newPhoneWhoDis.setSerialNumber(Integer.parseInt(askQuestion(input, "What is the serial number?")));
         newPhoneWhoDis.setSerialNumber(Integer.parseInt(askQuestion(input, "What is the serial number?")));
         newPhoneWhoDis.setSerialNumber(Integer.parseInt(askQuestion(input, "What is the serial number?")));
